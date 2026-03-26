@@ -1,0 +1,104 @@
+{
+  "version": 1,
+  "base_track": "セロリ",
+  "base_artist": "Masayoshi Yamazaki",
+  "createdAt": "2026-03-26T08:04:24.735687Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "セロリ",
+      "artist": "Masayoshi Yamazaki",
+      "has_synced": true,
+      "path": "select/01_セロリ_Masayoshi_Yamazaki.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "セロリ",
+      "artist": "Yamazaki Masayoshi",
+      "has_synced": true,
+      "path": "select/02_セロリ_Yamazaki_Masayoshi.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "セロリ",
+      "artist": "山崎 まさよし",
+      "has_synced": false,
+      "path": "select/pl_01_セロリ_山崎_まさよし.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "セロリ",
+      "artist": "山崎 まさよし",
+      "has_synced": false,
+      "path": "select/pl_02_セロリ_山崎_まさよし.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "セロリ",
+      "artist": "山崎 まさよし",
+      "has_synced": false,
+      "path": "select/pl_03_セロリ_山崎_まさよし.txt"
+    },
+    {
+      "id": "petitlyrics_4",
+      "source": "petitlyrics",
+      "title": "セロリ",
+      "artist": "山崎 まさよし",
+      "has_synced": false,
+      "path": "select/pl_04_セロリ_山崎_まさよし.txt"
+    },
+    {
+      "id": "petitlyrics_5",
+      "source": "petitlyrics",
+      "title": "セロリ",
+      "artist": "山崎 まさよし",
+      "has_synced": false,
+      "path": "select/pl_05_セロリ_山崎_まさよし.txt"
+    },
+    {
+      "id": "petitlyrics_6",
+      "source": "petitlyrics",
+      "title": "セロリ [Prototype]",
+      "artist": "山崎 まさよし",
+      "has_synced": false,
+      "path": "select/pl_06_セロリ_[Prototype]_山崎_まさよし.txt"
+    },
+    {
+      "id": "petitlyrics_7",
+      "source": "petitlyrics",
+      "title": "セロリ",
+      "artist": "山崎 まさよし",
+      "has_synced": false,
+      "path": "select/pl_07_セロリ_山崎_まさよし.txt"
+    },
+    {
+      "id": "petitlyrics_8",
+      "source": "petitlyrics",
+      "title": "セロリ",
+      "artist": "山崎 まさよし",
+      "has_synced": false,
+      "path": "select/pl_08_セロリ_山崎_まさよし.txt"
+    },
+    {
+      "id": "petitlyrics_9",
+      "source": "petitlyrics",
+      "title": "セロリ",
+      "artist": "山崎 まさよし",
+      "has_synced": false,
+      "path": "select/pl_09_セロリ_山崎_まさよし.txt"
+    },
+    {
+      "id": "petitlyrics_10",
+      "source": "petitlyrics",
+      "title": "セロリ",
+      "artist": "山崎 まさよし",
+      "has_synced": false,
+      "path": "select/pl_10_セロリ_山崎_まさよし.txt"
+    }
+  ]
+}
